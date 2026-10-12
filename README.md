@@ -15,7 +15,12 @@ the PC and 4 ms on the Mac. [How the latency was measured and tuned →](https:/
 **[RateMyDawg](https://github.com/theamanali/ratemydawg)** (in progress): a Chrome extension
 that brings RateMyProfessors and UW course evaluation ratings into UW MyPlan.
 
-[![Civil aviation accident rate](https://raw.githubusercontent.com/theamanali/civil-aviation-accident-analysis/main/images/accident_rate.png)](https://github.com/theamanali/civil-aviation-accident-analysis)
+<a href="https://github.com/theamanali/civil-aviation-accident-analysis">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theamanali/civil-aviation-accident-analysis/main/images/accident_rate-dark.png">
+    <img alt="Civil aviation accident rate" src="https://raw.githubusercontent.com/theamanali/civil-aviation-accident-analysis/main/images/accident_rate.png">
+  </picture>
+</a>
 
 **[Civil Aviation Accident Analysis](https://github.com/theamanali/civil-aviation-accident-analysis)**:
 an analysis of 23,917 accidents from 1919 to 2023, joined with World Bank flight and
