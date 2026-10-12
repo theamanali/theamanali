@@ -35,4 +35,4 @@ Win32 / Direct3D · Metal · Git · GitHub Actions
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/amanalidev) · [work.amanali@gmail.com](mailto:work.amanali@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/amanalidev) · [work.amanali@gmail.com](mailto:work.amanali@gmail.com) · [amanali@uw.edu](mailto:amanali@uw.edu)
