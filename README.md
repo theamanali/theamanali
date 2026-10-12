@@ -12,6 +12,9 @@ encode, Windows service) and a native Swift + Metal client, joined by an encrypt
 protocol with a written spec. 3024×1964 at 120 fps, with about 6 ms of work per frame on
 the PC and 4 ms on the Mac. [How the latency was measured and tuned →](https://github.com/theamanali/relay/blob/main/docs/LATENCY.md)
 
+**[RateMyDawg](https://github.com/theamanali/ratemydawg)** (in progress): a Chrome extension
+that brings RateMyProfessors and UW course evaluation ratings into UW MyPlan.
+
 [![Civil aviation accident rate](https://raw.githubusercontent.com/theamanali/civil-aviation-accident-analysis/main/images/accident_rate.png)](https://github.com/theamanali/civil-aviation-accident-analysis)
 
 **[Civil Aviation Accident Analysis](https://github.com/theamanali/civil-aviation-accident-analysis)**:
@@ -21,9 +24,6 @@ passenger data. Adjusted for flight volume, the civil accident rate fell 71% sin
 Built in Python with pandas, Matplotlib, and Seaborn, including data cleaning, accident
 rates for 18 countries, and severity by aircraft type.
 [Key findings →](https://github.com/theamanali/civil-aviation-accident-analysis#key-findings)
-
-**[RateMyDawg](https://github.com/theamanali/ratemydawg)**: a Chrome extension that
-brings RateMyProfessors and UW course evaluation ratings into UW MyPlan.
 
 **[face-recognizer](https://github.com/theamanali/face-recognizer)**: a Python CLI for
 training and running face recognition with dlib and OpenCV.
