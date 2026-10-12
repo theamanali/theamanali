@@ -23,11 +23,12 @@ that brings RateMyProfessors and UW course evaluation ratings into UW MyPlan.
 </a>
 
 **[Civil Aviation Accident Analysis](https://github.com/theamanali/civil-aviation-accident-analysis)**:
-an analysis of 23,917 accidents from 1919 to 2023, joined with World Bank flight and
+an analysis of 23,917 accidents and incidents from 1919 to 2023, joined with World Bank flight and
 passenger data. Adjusted for flight volume, the civil accident rate fell 71% since the
 1970s and the risk of dying on board fell 97%, to about 1 death per 7.5 million passengers.
 Built in Python with pandas, Matplotlib, and Seaborn, including data cleaning, accident
-rates for 18 countries, and severity by aircraft type.
+rates for 18 countries, severity by aircraft type, and statistical testing
+(confidence intervals, trend fits, significance tests) in SciPy.
 [Key findings →](https://github.com/theamanali/civil-aviation-accident-analysis#key-findings)
 
 **[face-recognizer](https://github.com/theamanali/face-recognizer)**: a Python CLI for
@@ -35,7 +36,7 @@ training and running face recognition with dlib and OpenCV.
 
 ## Tools
 
-Rust · Swift · Python · C++ · JavaScript / TypeScript · pandas · Matplotlib · Seaborn · Jupyter ·
+Rust · Swift · Python · C++ · JavaScript / TypeScript · pandas · SciPy · Matplotlib · Seaborn · Jupyter ·
 Win32 / Direct3D · Metal · Git · GitHub Actions
 
 ## Contact
