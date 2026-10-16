@@ -42,3 +42,6 @@ Win32 / Direct3D · Metal · Git · GitHub Actions
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/amanalidev) · [work.amanali@gmail.com](mailto:work.amanali@gmail.com) · [amanali@uw.edu](mailto:amanali@uw.edu)
+
+
+![Profile views since 10/15/2026](https://komarev.com/ghpvc/?username=theamanali&label=Profile%20views%20since%2010%2F15%2F2026&color=blue&style=flat)
