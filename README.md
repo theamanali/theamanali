@@ -44,4 +44,4 @@ Win32 / Direct3D · Metal · Git · GitHub Actions
 [LinkedIn](https://www.linkedin.com/in/amanalidev) · [work.amanali@gmail.com](mailto:work.amanali@gmail.com) · [amanali@uw.edu](mailto:amanali@uw.edu)
 
 
-![Profile views since 10/15/2026](https://visitor-badge.laobi.icu/badge?page_id=theamanali.github-profile&left_text=Profile%20views%20since%2010%2F15%2F2026&left_color=gray&right_color=blue)
+![Page loads since 10/15/2026](https://visitor-badge.laobi.icu/badge?page_id=theamanali.github-profile&left_text=Page%20loads%20since%2010%2F15%2F2026&left_color=gray&right_color=blue)
